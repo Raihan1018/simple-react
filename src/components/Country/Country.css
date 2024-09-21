@@ -1,0 +1,12 @@
+.div1 {
+  padding: 10px;
+  border: 1px solid rebeccapurple;
+  margin: 20px;
+}
+
+.visited {
+  color: green;
+}
+.not-visited {
+  color: red;
+}
